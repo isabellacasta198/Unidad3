@@ -3,7 +3,7 @@ public class Grafo {
     private String[] nodos = {"A", "B", "C", "D", "E"};
 
     public Grafo() {
-        // Matriz basada en la imagen (5x5)
+
         matrizAdyacencia = new int[][] {
             // A  B  C  D  E
             { 0, 1, 0, 0, 0 }, // A
